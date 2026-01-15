@@ -11,11 +11,19 @@ No UI, no technical implementation details.
 2. Seller logs in
 3. Seller goes to seller dashboard
 4. Seller adds a new product:
-   - Name
-   - Price
-   - Description
-   - Images
-   - Available quantity
+
+4. Seller adds products using one of the following options:
+   - Option A: Add a single product manually
+      - Name
+      - Price
+      - Description
+      - Images
+      - Available quantity
+   - Option B: Upload multiple products at once
+     - Seller uploads a CSV / Excel file
+     - System validates the file
+     - Errors are shown for invalid rows
+     - Valid products are created successfully
 5. Seller saves the product
 6. Product becomes visible to customers
 7. Seller can:
