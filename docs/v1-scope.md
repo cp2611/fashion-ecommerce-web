@@ -10,6 +10,7 @@ Launch a simple fashion ecommerce website to sell products via traffic from Face
 
 ## In Scope (v1)
 - Seller can add and manage products
+- Seller bulk product upload (CSV / Excel)
 - Customers can browse product listings
 - Product detail page
 - Add to cart
