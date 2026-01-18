@@ -7,8 +7,15 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <header>
-          <h2>Fashion Store</h2>
-        </header>
+  <nav>
+    <a href="/">Home</a> |{" "}
+    <a href="/products">Products</a> |{" "}
+    <a href="/login">Login</a> |{" "}
+    <a href="/seller">Seller</a> |{" "}
+    <a href="/admin">Admin</a>
+  </nav>
+</header>
+
 
         {children}
 
