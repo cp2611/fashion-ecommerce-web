@@ -8,12 +8,12 @@ export default function RootLayout({
       <body>
         <header>
   <nav>
-    <a href="/">Home</a> |{" "}
-    <a href="/products">Products</a> |{" "}
-    <a href="/login">Login</a> |{" "}
-    <a href="/seller">Seller</a> |{" "}
-    <a href="/admin">Admin</a>
-  </nav>
+  <a href="/">Home</a> |{" "}
+  <a href="/products">Products</a> |{" "}
+  <a href="/seller">Seller</a> |{" "}
+  <a href="/admin/dashboard">Admin</a>
+</nav>
+
 </header>
 
 
